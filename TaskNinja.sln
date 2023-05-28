@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.6.33712.159
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TaskNinja", "TaskNinja\TaskNinja.csproj", "{DA6E32A5-1A0C-4645-9401-0BF60E018BDD}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{DA6E32A5-1A0C-4645-9401-0BF60E018BDD}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{DA6E32A5-1A0C-4645-9401-0BF60E018BDD}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{DA6E32A5-1A0C-4645-9401-0BF60E018BDD}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{DA6E32A5-1A0C-4645-9401-0BF60E018BDD}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {995E3FCA-F603-42D2-97DB-2A31B5D9DA2B}
+	EndGlobalSection
+EndGlobal
